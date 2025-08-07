@@ -1,2 +1,2 @@
 # hello-github
-myFirstGitHub_repo
+this is my first repository ... I am learning GitHub step by step
